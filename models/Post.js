@@ -31,7 +31,7 @@ Post.init(
               key: 'id',
             },      
         },
-        // do I need to add the username here as well?
+        // do I need to add the username here as well? NO
     },
     {
         sequelize,
